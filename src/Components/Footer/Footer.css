@@ -1,0 +1,35 @@
+.footer {
+  background-color: rgb(19, 19, 19);
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.footer p {
+  color: #fff;
+}
+
+.footer .btn-success {
+  color: #fff;
+  border-color: #198754;
+  margin-left: -3em;
+  background: #198754;
+}
+
+hr {
+  background: #ddd;
+}
+.footer svg {
+  color: #fff;
+  background: green;
+  width: 30px;
+  height: 30px;
+  padding: 6px;
+  border-radius: 50%;
+  margin-right: 12px;
+}
+
+.copy-right p {
+  color: #fff;
+  text-align: center;
+  padding: 6px;
+}
